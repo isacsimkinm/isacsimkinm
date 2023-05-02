@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📄 Know about my [experiences]([https://isacsimkinm.github.io/](https://documents-ism.s3.amazonaws.com/Resume_ISM+04.29.2023.pdf))
+- 📄 Know about my experiences. Open my [resume](https://documents-ism.s3.amazonaws.com/Resume_ISM+04.29.2023.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
